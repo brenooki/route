@@ -3,7 +3,7 @@
    ===================================================== */
 
 // === CONFIGURAÇÃO ===
-const PIX_KEY = "CNPJ-DA-BARBEARIA"; // ⚠️ Troque pelo CNPJ real
+const PIX_KEY = "56.451.223/0001-20"; // ⚠️ Troque pelo CNPJ real
 
 // === ELEMENTOS ===
 const pixBtn = document.getElementById("pixBtn");
